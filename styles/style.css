@@ -213,7 +213,7 @@
 }
 
 .card__type_picture {
-  background-image: url("../images/card-lot-03.jpg"); 
+  background-image: url("../images/card-lot-03.jpg");
 }
 
 .overlay-picture {
@@ -275,8 +275,8 @@
 .about__logo-image {
   width: 148px;
   height: 114px;
-  margin-left: 47px; 
-  margin-top: 65px; 
+  margin-left: 47px;
+  margin-top: 65px;
   object-fit: contain;
 }
 
