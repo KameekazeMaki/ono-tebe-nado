@@ -200,6 +200,7 @@
 }
 
 .card__type_book {
+  
   background-image: url("../images/card-lot-02.jpg");
 }
 
@@ -213,6 +214,7 @@
 }
 
 .card__type_picture {
+
   background-image: url("../images/card-lot-03.jpg"); 
 }
 
@@ -273,10 +275,10 @@
 }
 
 .about__logo-image {
-  width: 148px;
-  height: 114px;
   margin-left: 47px; 
-  margin-top: 65px; 
+  margin-top: 65px;
+  width: 148px;
+  height: 114px; 
   object-fit: contain;
 }
 
