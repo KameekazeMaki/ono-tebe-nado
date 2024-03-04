@@ -275,10 +275,10 @@
 }
 
 .about__logo-image {
-  margin-left: 47px; 
-  margin-top: 65px;
   width: 148px;
-  height: 114px; 
+  height: 114px;
+  margin-left: 47px; 
+  margin-top: 65px; 
   object-fit: contain;
 }
 
@@ -303,6 +303,7 @@
 }
 
 /*футэр*/
+
 .footer {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
