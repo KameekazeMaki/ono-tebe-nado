@@ -1,7 +1,3 @@
-/*есть разногласия значений с макета figma и perfect pixel.
- Посчитал правильным отталкиваться от проверки 
- в perfect pixel(проверял на Chrome, Firefox, Yandex).
- Так же проверил html и css в валидаторе W3.org */
 .header {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
