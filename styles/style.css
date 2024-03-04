@@ -202,7 +202,7 @@
   background-image: url("../images/card-lot-02.jpg");
 }
 
-.overlay-book{
+.overlay-book {
   position: absolute;
   z-index: -1;
   width: 334px;
