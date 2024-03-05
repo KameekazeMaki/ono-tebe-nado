@@ -233,7 +233,7 @@
   display: grid;
   grid-template-columns: min-content 1fr;
   column-gap: 28px;
-  padding: 155px 50px 90px 50px;
+  padding: 140px 50px 90px 50px;
 }
 
 .circle {
