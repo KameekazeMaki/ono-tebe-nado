@@ -1,1 +1,1 @@
-# ono-tebe-nado
+git@github.com:KameekazeMaki/ono-tebe-nado.git
