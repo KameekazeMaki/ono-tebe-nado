@@ -2,8 +2,8 @@
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   align-items: center;
-  gap: 50px;
-  padding: 92px 51px 96px 51px;
+  gap: 40px;
+  padding: 92px 0px 96px 50px;
 }
 
 .header__links-list {
